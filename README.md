@@ -37,7 +37,7 @@ Consists Banking Financial Institutes and Non-Banking Financial Institutes relat
 
 
 
-  3. **Loan Approval Prediction**
+  3. **Loan Approval Prediction** - link https://github.com/shribiyani/Loan_Approval-Prediction/blob/main/Loan_Prediction.ipynb
      -  Here, company wants to **Predict the Loan Approval**
      -  Dataset is small but very informatic.
      -  it consists 12 independent features and 1 response variable
